@@ -67,7 +67,6 @@ The Personal Contact Manager is a Python application that allows users to manage
 - **main.py**: The main script that runs the application.
 - **gui.py**: Contains the Tkinter GUI elements and event handling.
 - **database.py**: Handles database operations, including creating the table, adding, editing, deleting, and searching contacts.
-- **requirements.txt**: Lists the required packages for the project.
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
